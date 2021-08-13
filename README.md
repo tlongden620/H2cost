@@ -1,2 +1,2 @@
 # H2cost
-Hydrogen production cost modelling and mapping
+Hydrogen production cost modelling
