@@ -1,0 +1,7 @@
+Label,Point_x,Point_y
+"High solar, high curtail ($2.00/kg)",0.24,30
+"High solar, moderate curtail ($2.12/kg)",0.14,30
+"High wind, high curtail ($1.74/kg)",0.17,45
+"High wind, moderate curtail ($1.88/kg)",0.02,45
+"Combined, high curtail ($1.59/kg)",0.16,55
+"Combined, moderate curtail ($1.68/kg)",0.08,55
